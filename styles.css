@@ -12,6 +12,7 @@ body {
 }
 
 .nav {
+    color: white;
     list-style: none;
     margin: 0;
     padding: 0;
@@ -27,5 +28,5 @@ body {
 }
 
 .navbar a:hover {
-    background-color: #ffc8c8;
+    background-color: #ff0000;
 }
