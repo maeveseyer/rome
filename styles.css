@@ -5,34 +5,8 @@ body {
 
 .container {
     width: 90%; 
-    max-width: 800px; 
+    /* max-width: 800px;  */
     margin: 0 auto; 
     line-height: 1.6; 
     padding:0.01em 16px
-}
-
-
-/* Style the navigation bar */
-nav {
-    background-color: #333; /* Dark background */
-    color: white;          /* White text */
-    display: flex;         /* Flexbox for horizontal layout */
-    justify-content: center; /* Center the items horizontally */
-    padding: 15px 20px;    /* Add some padding */
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow */
-}
-
-/* Style the links in the nav bar */
-nav a {
-    color: white;           /* White text */
-    text-decoration: none;  /* Remove underline */
-    margin: 0 15px;         /* Space between links */
-    font-size: 18px;        /* Larger font size */
-    font-weight: bold;      /* Bold text */
-    transition: color 0.3s; /* Smooth color change on hover */
-}
-
-/* Change link color on hover */
-nav a:hover {
-    color: #f0a500; /* Gold-like color for hover effect */
 }
