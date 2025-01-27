@@ -4,7 +4,7 @@ body {
 }
 
 .container {
-    width: 80%; 
+    width: 90%; 
     max-width: 800px; 
     margin: 0 auto; 
     line-height: 1.6; 
@@ -16,13 +16,6 @@ body {
     margin: 0;
     padding: 0;
     background-color: rgb(255, 225, 225);
-}
-
-.nav li {
-    flex: 1;
-    text-align: center;
-    display: inline;
-    float: left;
 }
 
 .nav a {
