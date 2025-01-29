@@ -5,8 +5,17 @@ body {
 
 .container {
     width: 90%; 
-    /* max-width: 800px;  */
     margin: 0 auto; 
     line-height: 1.6; 
     padding:0.01em 16px
+}
+
+.navbar {
+    display:inline;
+}
+
+.navbar li {
+    display:inline;
+    text-decoration: none;
+    color: red;
 }
