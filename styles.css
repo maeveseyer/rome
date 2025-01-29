@@ -10,20 +10,13 @@ body {
     padding:0.01em 16px
 }
 
-/* .navbar {
-    display:inline;
-}
-
-.navbar li {
-    display:inline;
-    text-decoration: none;
-    color: red;
-} */
-
 .nav {
-    background-color: red;
+    margin: 20px;
 }
 
 .nav a{
-    color: white;
+    background-color: rgb(255, 119, 119);
+    padding: 5px;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
 }
