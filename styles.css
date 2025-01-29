@@ -20,6 +20,6 @@ body {
     color: red;
 } */
 
-.nav a {
-    color: red;
+.nav {
+    background-color: red;
 }
