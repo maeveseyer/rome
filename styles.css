@@ -10,12 +10,16 @@ body {
     padding:0.01em 16px
 }
 
-.navbar {
+/* .navbar {
     display:inline;
 }
 
 .navbar li {
     display:inline;
     text-decoration: none;
+    color: red;
+} */
+
+.nav a {
     color: red;
 }
